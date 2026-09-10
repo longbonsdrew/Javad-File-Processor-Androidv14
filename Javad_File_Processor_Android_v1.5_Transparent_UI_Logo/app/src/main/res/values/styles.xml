@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.JavadProcessor" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/orange_red</item>
+        <item name="android:navigationBarColor">@color/forest</item>
+        <item name="android:statusBarColor">@color/forest</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
